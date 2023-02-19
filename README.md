@@ -8,3 +8,4 @@
  
  ![Site Educacional Desenhado à Mão Azul Vermelho Branco](https://user-images.githubusercontent.com/113534912/219960207-b42c9231-0c6b-45ad-9d0b-c12b8bb7f10e.png)
 
+<p>O site pode ser acessado tanto por aplicativo e plataforma, além do mais ele é extremamente leve, e rápido! divirta-se compartilhando seus arquivos!
