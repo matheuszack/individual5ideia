@@ -12,7 +12,7 @@
 
 
 # Clone o repositório
-$ git clone 
+$ git clone https://github.com/matheuszack/individual5ideia/blob/main/README.md
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd Chat
