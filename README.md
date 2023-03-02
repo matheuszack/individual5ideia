@@ -53,7 +53,7 @@ $ <http://localhost:8081>
 |  **`DELETE`** | **/bloco de notas/id** | Remove o bloco de notas.
   
   
-### [ 2 ] <em>Pasta de arquivos</em>
+### [ 3 ] <em>Pasta de arquivos</em>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
@@ -64,7 +64,7 @@ $ <http://localhost:8081>
 |  **`DELETE`** | **/Pasta de arquivos/id** | Remove as Pasta de arquivos.
 
 
-### [ 2 ] <em>Integração com outras plataformas</em>
+### [ 4 ] <em>Integração com outras plataformas</em>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
