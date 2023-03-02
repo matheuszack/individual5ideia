@@ -36,10 +36,10 @@ $ <http://localhost:8081>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-| **`GET`** | **/bate-papo** | Retorna todos os bate-papo. |
+| **`GET`** | **/bate-papo** | Retorna todos os bate-papos. |
 |  **`GET`** | **/bate-papo/id** | Retorna um bate-papo. |
 |  **`POST`** | **/bate-papo** | Cria um novo bate-papo.  |
-|  **`PUT`** | **/bate-papo/id** | Altera os dados do bate-papo.
+|  **`PUT`** | **/bate-papo/id** | Altera os dados do bate-papos.
 |  **`DELETE`** | **/bate-papo/id** | Remove o bate-papo.
   
 ### [ 2 ] <em>bloco de notas</em>
@@ -58,8 +58,8 @@ $ <http://localhost:8081>
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
 |  **`GET`** | **/Pasta de arquivos** | Retorna todas as Pasta de arquivos. |
-|  **`GET`** | **/Pasta de arquivos/id** | Retorna um Pasta de arquivos. |
-|  **`POST`** | **/Pasta de arquivos** | Cria um novo Pasta de arquivos.  |
+|  **`GET`** | **/Pasta de arquivos/id** | Retorna uma Pasta de arquivos. |
+|  **`POST`** | **/Pasta de arquivos** | Cria uma nova Pasta de arquivos.  |
 |  **`PUT`** | **/Pasta de arquivos/id** | Altera os dados das Pasta de arquivos.
 |  **`DELETE`** | **/Pasta de arquivos/id** | Remove as Pasta de arquivos.
 
@@ -68,9 +68,9 @@ $ <http://localhost:8081>
 
 | Método | Rota | Descrição |
 | ------ | ----- | ----------- |
-|  **`GET`** | **/Integração com outras plataformas:** | Retorna todos as Integração com outras plataformas:. |
-|  **`GET`** | **/Integração com outras plataformas:/id** |  Retorna a Integração com outras plataformas:. |
-|  **`POST`** | **/Integração com outras plataformas:** | Cria uma novo Integração com outras plataformas:.  |
-|  **`PUT`** | **/Integração com outras plataformas:/id** | Altera as Integração com outras plataformas:.
-|  **`DELETE`** | **/Integração com outras plataformas:/id** | Remove as Integração com outras plataformas:.
+|  **`GET`** | **/Integração com outras plataformas:** | Retorna todos as Integração com outras plataformas. |
+|  **`GET`** | **/Integração com outras plataformas:/id** |  Retorna a Integração com outras plataformas. |
+|  **`POST`** | **/Integração com outras plataformas:** | Cria uma novo Integração com outras plataformas.  |
+|  **`PUT`** | **/Integração com outras plataformas:/id** | Altera as Integração com outras plataformas.
+|  **`DELETE`** | **/Integração com outras plataformas:/id** | Remove as Integração com outras plataformas.
   
